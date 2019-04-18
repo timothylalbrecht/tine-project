@@ -1,0 +1,24 @@
+.container {
+    margin-top: 20px !important;
+    margin-bottom: 50px !important;
+}
+
+.month-header {
+    text-align: center !important;
+}
+
+.About-Me, .Contact {
+    margin-top: 10px !important;
+}
+
+.contact-box {
+    margin-left: -20px !important;
+}
+
+.card {
+    margin-top: 40px !important;
+}
+
+.blog {
+    margin-bottom: 20px !important;
+}
